@@ -30,7 +30,7 @@ Diffusion models are finicky to
     - different random seeds produce vastly different images
     - when selecting random seed, use 
       - num_inference_steps = 100 (50 in original deepdive nb)
-      - start_step = 50 (10 in original deepdive nb)
+      - start_step = 20 (10 in original deepdive nb)
         - this helps to keep starting variance the same when we increase the resolution.
 
   
