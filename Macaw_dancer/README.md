@@ -62,7 +62,7 @@ random seed = 93, start_step = 200
   
 
 ----
-random seed = 93, start_step = 271 
+random seed = 93, start_step = 271   
 ![seed93](seed_93_start_step271.jpg)  
   
 
