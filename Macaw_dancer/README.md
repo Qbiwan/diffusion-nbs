@@ -45,34 +45,34 @@ prompt = "A colorful dancer, nat geo photo"
 
 original image  
 
-![macaw](macaw.jpg)            
+![macaw](images/macaw.jpg)            
 
 ----
 ## Generated Images  
 
 random seed = 32, from original notebook  
-![seed32](seed32_original.jpg)  
+![seed32](images/seed32_original.jpg)  
   
 
 ---  
 
 random seed = 32,, start_step = 200    
-![seed32](seed32.jpg)  
+![seed32](images/seed32.jpg)  
   
 
 ----
 random seed = 93, start_step = 200  
-![seed93](seed93.jpg)  
+![seed93](images/seed93.jpg)  
   
 
 ----
 random seed = 93, start_step = 271   
-![seed93](seed_93_start_step271.jpg)  
+![seed93](images/seed_93_start_step271.jpg)  
   
 
 ----
 random seed = 1, start_step = 200   
-![seed1](seed1.jpg)  
+![seed1](images/seed1.jpg)  
   
 
 ---
