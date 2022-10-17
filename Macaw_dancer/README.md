@@ -14,8 +14,12 @@ Diffusion models are finicky to
             - good for scanning random seed space
           - the lower the resolution of this image.
             - image will be not photo-realistic
-              - background in images tend to become parimonious
-                - people in background disappears when resolution goes up. 
+              
+    - possible problem at higher resolution
+      - at low res, there will be out-of-focus objects in the background sucvh as people, houses
+      - at high res, people/things in background disappears
+        - background in images tend to become parimonious
+         
 
 2. start_step 
     - start_step will determine the starting variance 
