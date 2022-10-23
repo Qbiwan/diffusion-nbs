@@ -22,8 +22,10 @@ $x_{t} = \sqrt{\bar{\alpha_{t}}} x_{{0}} + \sqrt{1- \bar{\alpha_{t}}}\epsilon$
 The tedious maths to get `alpha_cumprod` is provided below      
 
 ![beta proof](images/beta_proof.jpg)  
-[Source: Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)  
 
+![beta proof](images/eq115.jpg)  
+
+[Source: Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)  
 ---  
 
   
