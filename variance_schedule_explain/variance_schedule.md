@@ -26,6 +26,8 @@ The tedious maths to get `alpha_cumprod` is provided below
 ![beta proof](images/eq115.jpg)  
 
 [Source: Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)  
+
+
 ---  
 
   
