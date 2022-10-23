@@ -43,7 +43,7 @@ and is expresed in code as
 sigmas = np.array(((1 - alphas_cumprod) / alphas_cumprod) ** 0.5)
 ```
 
-Note that `alphas_cumprod` ($\bar{\alpha}$)   is a cumulative product  $\prod_{i=0}^t \alpha_{i}$ involving the multiplication of cumulative terms 
+Note that `alphas_cumprod` is a cumulative product  $$\bar{\alpha_{t}} = \prod_{i=0}^t \alpha_{i}$$ involving the multiplication of cumulative terms 
 
 ```
 np.cumprod([1, 2, 3, 4])
